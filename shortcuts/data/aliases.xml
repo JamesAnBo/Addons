@@ -1,0 +1,170 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <acc>Accession</acc>
+        <agi>Boost-AGI</agi>
+        <altep>Teleport-Altep</altep>
+        <aq>Aquaveil</aq>
+        <ar>Arise</ar>
+        <au>Auspice</au>
+        <aus>Auspice</aus>
+		<adlo>Adloquium</adlo>
+        <bair>Baraera</bair>
+        <bamnesia>Baramnesra</bamnesia>
+        <bblind>Barblindra</bblind>
+        <bbliz>Barblizzara</bbliz>
+        <bfire>Barfira</bfire>
+        <bl>Blink</bl>
+        <blin>Blindna</blin>
+        <bpara>Barparalyzra</bpara>
+        <bpetra>Barpetra</bpetra>
+        <bpoison>Barpoisonra</bpoison>
+        <bsl>Barsilencera</bsl>
+        <bsleep>Barsleepra</bsleep>
+        <bstone>Barstonra</bstone>
+        <bthunder>Barthundra</bthunder>
+        <bvira>Barvira</bvira>
+        <bwater>Barwatera</bwater>
+		<cg>Curaga</cg>
+		<cg1>Curaga</cg1>
+		<cg2>Curaga II</cg2>
+		<cg3>Curaga III</cg3>
+		<cg4>Curaga IV</cg4>
+		<cg5>Curaga V</cg5>
+        <c1>Cure</c1>
+        <c2>Cure II</c2>
+        <c3>Cure III</c3>
+        <c4>Cure IV</c4>
+        <c5>Cure V</c5>
+        <c6>Cure VI</c6>
+        <cel>Celerity</cel>
+        <cur>Cursna</cur>
+        <cw1>Curing Waltz</cw1>
+        <cw2>Curing Waltz II</cw2>
+        <cw3>Curing Waltz III</cw3>
+        <cw4>Curing Waltz IV</cw4>
+        <cw5>Curing Waltz V</cw5>
+        <da>Dark Arts</da>
+        <dem>Teleport-Dem</dem>
+        <dex>Boost-DEX</dex>
+        <ds>Divine Seal</ds>
+        <dw>Divine Waltz</dw>
+        <es>Elemental Seal</es>
+        <fw>Firestorm</fw>
+        <h>Haste</h>
+        <holla>Teleport-Holla</holla>
+        <hs>Haste Samba</hs>
+        <hw>Healing Waltz</hw>
+        <ichi>Utsusemi: Ichi</ichi>
+        <int>Boost-INT</int>
+        <inv>Invisible</inv>
+        <invis>Invisible</invis>
+        <is>Hailstorm</is>
+        <iw>Hailstorm</iw>
+        <jugner>Recall-Jugner</jugner>
+        <klim>Klimaform</klim>
+        <la>Light Arts</la>
+        <lw>Aurorastorm</lw>
+		<aw>Aurorastorm</aw>
+        <mea>Teleport-Mea</mea>
+        <meri>Recall-Meriph</meri>
+        <meriph>Recall-Meriph</meriph>
+        <mnd>Boost-MND</mnd>
+        <ni>Utsusemi: Ni</ni>
+        <p1>Protect</p1>
+        <p2>Protect II</p2>
+        <p3>Protect III</p3>
+        <p4>Protect IV</p4>
+        <p5>Protect V</p5>
+        <par>Paralyna</par>
+        <para>Paralyze</para>
+        <pash>Recall-Pashh</pash>
+        <pashh>Recall-Pashh</pashh>
+        <pen>Penury</pen>
+        <poi>Poisona</poi>
+        <pr>Protectra V</pr>
+        <pr1>Protectra</pr1>
+        <pr2>Protectra II</pr2>
+        <pr3>Protectra III</pr3>
+        <pr4>Protectra IV</pr4>
+        <pr5>Protectra V</pr5>
+        <pra>Protectra V</pra>
+        <pra1>Protectra</pra1>
+        <pra2>Protectra II</pra2>
+        <pra3>Protectra III</pra3>
+        <pra4>Protectra IV</pra4>
+        <pra5>Protectra V</pra5>
+        <pro>Protect V</pro>
+        <pro1>Protect</pro1>
+        <pro2>Protect II</pro2>
+        <pro3>Protect III</pro3>
+        <pro4>Protect IV</pro4>
+        <pro5>Protect V</pro5>
+        <r1>Raise</r1>
+        <r2>Raise II</r2>
+        <r3>Raise III</r3>
+        <re1>Regen</re1>
+        <re2>Regen II</re2>
+        <re3>Regen III</re3>
+        <re4>Regen IV</re4>
+        <re5>Regen V</re5>
+        <rg>Regen IV</rg>
+        <rg4>Regen IV</rg4>
+        <rg5>Regen V</rg5>
+        <rp>Repose</rp>
+        <rr>Reraise IV</rr>
+        <rr1>Reraise</rr1>
+        <rr2>Reraise II</rr2>
+        <rr3>Reraise III</rr3>
+        <rr4>Reraise IV</rr4>
+        <rw>Rainstorm</rw>
+        <s1>Shell</s1>
+        <s2>Shell II</s2>
+        <s3>Shell III</s3>
+        <s4>Shell IV</s4>
+        <s5>Shell V</s5>
+        <san>Utsusemi: San</san>
+        <sh>Shell V</sh>
+        <sh1>Shell</sh1>
+        <sh2>Shell II</sh2>
+        <sh3>Shell III</sh3>
+        <sh4>Shell IV</sh4>
+        <sh5>Shell V</sh5>
+        <she>Shellra V</she>
+        <she1>Shellra</she1>
+        <she2>Shellra II</she2>
+        <she3>Shellra III</she3>
+        <she4>Shellra IV</she4>
+        <she5>Shellra V</she5>
+        <sil>Silena</sil>
+        <sl>Silence</sl>
+        <snk>Sneak</snk>
+        <sr>Shellra V</sr>
+        <sr1>Shellra</sr1>
+        <sr2>Shellra II</sr2>
+        <sr3>Shellra III</sr3>
+        <sr4>Shellra IV</sr4>
+        <sr5>Shellra V</sr5>
+        <sra>Shellra V</sra>
+        <sra1>Shellra</sra1>
+        <sra2>Shellra II</sra2>
+        <sra3>Shellra III</sra3>
+        <sra4>Shellra IV</sra4>
+        <sra5>Shellra V</sra5>
+        <ss>Stoneskin</ss>
+        <ston>Stona</ston>
+        <str>Boost-STR</str>
+        <tw>Thunderstorm</tw>
+        <u1>Utsusemi: Ichi</u1>
+        <u2>Utsusemi: Ni</u2>
+        <u3>Utsusemi: San</u3>
+        <utsu1>Utsusemi: Ichi</utsu1>
+        <utsu2>Utsusemi: Ni</utsu2>
+        <vahzl>Teleport-Vahzl</vahzl>
+        <vir>Viruna</vir>
+        <vit>Boost-VIT</vit>
+        <vw>Voidstorm</vw>
+        <ww>Windstorm</ww>
+        <yhoat>Teleport-Yhoat</yhoat>
+    </global>
+</settings>
