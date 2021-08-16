@@ -12,7 +12,7 @@ Drop items with commands
 Some custom lists I added
 
 //drop list cells     --Drops all Salvage cells.  
-//drop lisy rems      --Drops all Rems Ch. 6-10.
+//drop list rems      --Drops all Rems Ch. 6-10.
 
 
 
