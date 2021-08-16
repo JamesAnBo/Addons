@@ -11,7 +11,7 @@ Drop items with commands
 
 Some custom lists I added
 
-//drop list cells     --Drops all Salvage cells.
+//drop list cells     --Drops all Salvage cells.  
 //drop lisy rems      --Drops all Rems Ch. 6-10.
 
 
@@ -25,16 +25,16 @@ Whenever someone on your greylist sends a tell it just says "<name> is on your g
 
 //gl      -- lists all the names.
 
-//gl add <name>     -- add a name.
+//gl add <name>     -- add a name.  
 //gl a <name>     -- add a name.
 
-//gl remove <name>      -- remove a name.
+//gl remove <name>      -- remove a name.  
 //gl r <name>     -- remove a name.
 
-//gl save     -- saves the current character's local list to global for all characters.
+//gl save     -- saves the current character's local list to global for all characters.  
 //gl s      -- saves the current character's local list to global for all characters.
 
-//gl find <name>      -- Searches list for a name. Tells you if they are on your greylist or not.
+//gl find <name>      -- Searches list for a name. Tells you if they are on your greylist or not.  
 //gl f <name>     -- Searches list for a name. Tells you if they are on your greylist or not.
 
 
