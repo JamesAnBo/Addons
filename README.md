@@ -3,7 +3,7 @@ Addons for Final Fantasy XI via Windower4
 
 ## Drop:
 
-Oiriginal Author: Arico
+Original Author: Arico
 
 Drop items with commands
 
